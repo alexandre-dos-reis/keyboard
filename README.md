@@ -1,2 +1,6 @@
 # keyboard
-All my keyboard files
+
+This is my keyboard config repository.
+
+- Keebio Iris
+- Vortex Gear Race 3
