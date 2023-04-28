@@ -9,3 +9,4 @@ This is my keyboard config repository.
 
 - [rama](https://ramaworks.store/pages/updates)
 - [antipode](https://www.antipode.no/products/akb-vero?color=midnight%2520purple%2520-%2520copper%2520weight)
+- [qk60](https://candykeys.com/product/qk60-keyboard-kit)
