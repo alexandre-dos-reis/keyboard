@@ -14,3 +14,9 @@ This is my keyboard config repository.
 
 ## Alice layout
 - [Prime Meridian](https://www.primekb.com/products/meridian-extras-1)
+
+## keycaps
+- [gmk striker](https://oblotzky.industries/products/gmk-striker-2?variant=37904042098856)
+
+## switchs
+- [linear darkmoon](https://iv-works.com/product/darkmoon-switch/)
