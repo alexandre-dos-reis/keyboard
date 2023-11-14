@@ -20,3 +20,7 @@ This is my keyboard config repository.
 
 ## switchs
 - [linear darkmoon](https://iv-works.com/product/darkmoon-switch/)
+
+## from scratch
+- https://www.weerg.com/fr
+- https://cart.jlcpcb.com
